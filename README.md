@@ -1,6 +1,5 @@
 # 🎬 Video Duration Viewer
 
-<div align="center">
 ![Python Version](https://badgen.net/badge/python/3.8+/blue)
 ![PyQt5 Version](https://badgen.net/badge/PyQt5/5.15+/green)
 ![License](https://badgen.net/badge/license/MIT/blue)
@@ -10,8 +9,6 @@
 **一个功能强大的 Windows 桌面应用，用于批量查看视频时长、递归扫描目录、批量重命名视频文件，并支持导出详细报告到 Excel。**
 
 功能特性 • 快速开始 • 使用指南 • 截图 • 贡献
-
-</div>
 
 ## 📖 目录
 
