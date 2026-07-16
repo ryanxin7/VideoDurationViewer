@@ -1,12 +1,11 @@
 # 🎬 Video Duration Viewer
 
 <div align="center">
-
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/PyQt5-5.15+-green.svg
-https://img.shields.io/badge/license-MIT-blue.svg
-https://img.shields.io/badge/platform-Windows-lightgrey.svg
-https://img.shields.io/badge/status-stable-brightgreen.svg
+![Python Version](https://badgen.net/badge/python/3.8+/blue)
+![PyQt5 Version](https://badgen.net/badge/PyQt5/5.15+/green)
+![License](https://badgen.net/badge/license/MIT/blue)
+![Platform](https://badgen.net/badge/platform/Windows/lightgrey)
+![Status](https://badgen.net/badge/status/stable/brightgreen)
 
 **一个功能强大的 Windows 桌面应用，用于批量查看视频时长、递归扫描目录、批量重命名视频文件，并支持导出详细报告到 Excel。**
 
