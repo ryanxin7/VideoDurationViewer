@@ -277,9 +277,9 @@ https://screenshots/export.png
 | **PyInstaller** | 打包为 EXE     |
 | **Python 3.8+** | 开发语言       |
 
-### 架构设计
 
-text
+
+### 架构设计
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -357,7 +357,7 @@ pip install openpyxl
 
 **A**: 支持 MP4、AVI、MKV、MOV、WMV、FLV、WEBM、M4V、MPG、MPEG、3GP、OGV、TS、MTS、M2TS 等格式。
 
-------
+
 
 ## 🤝 贡献
 
@@ -384,8 +384,6 @@ pip install openpyxl
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](https://license/) 文件
 
-text
-
 ```
 MIT License
 
@@ -402,15 +400,13 @@ furnished to do so, subject to the following conditions:
 
 
 
-------
-
 ## 📞 联系方式
 
 - **项目地址**: [GitHub Repository](https://github.com/ryanxin7/video-duration-viewer)
 - **问题反馈**: [Issues](https://github.com/ryanxin7/video-duration-viewer/issues)
-- **作者**: [Your Name](https://github.com/ryanxin7)
+- **作者**: [ryanxin7](https://github.com/ryanxin7)
 
-------
+
 
 ## ⭐ 支持项目
 
@@ -418,7 +414,7 @@ furnished to do so, subject to the following conditions:
 
 https://img.shields.io/github/stars/ryanxin7/video-duration-viewer?style=social
 
-------
+
 
 ## 📋 更新日志
 
